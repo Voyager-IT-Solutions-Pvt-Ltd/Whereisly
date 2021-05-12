@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529335105186",
+    "project_id": "whereisly",
+    "storage_bucket": "whereisly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529335105186:android:7ff7d56823388e70ee49fb",
+        "android_client_info": {
+          "package_name": "com.whereisly.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529335105186-tcno62ik2d7n9bjvse5r2m0eneu4oqo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjVsnfMCNuVbO-caZ7zjkPgiVL38wABt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529335105186-tcno62ik2d7n9bjvse5r2m0eneu4oqo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
